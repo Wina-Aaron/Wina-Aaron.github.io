@@ -9,8 +9,8 @@
 [Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Predictive%20Modeling.md)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/student_grade.png" alt="Student Grade" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/alch_cons.png" alt="Alcohol Consumption" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/student_grade.png" alt="Student Grade" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/alch_cons.png" alt="Alcohol Consumption" style="width:300px; height:auto;"/>
 </div>
 Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 
@@ -21,8 +21,8 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 [Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Avg%20Salary%20Estimation%20Project.md)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/ds.png" alt="Data Science" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/salary.png" alt="Salary Estimation" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/ds.png" alt="Data Science" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/salary.png" alt="Salary Estimation" style="width:300px; height:auto;"/>
 </div>
 Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
     
@@ -34,8 +34,8 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 [Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Indiana_Arrest.md)
 <br>
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/indiana.png" alt="Indiana" style="width:300px; height:auto;"/>
-    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/arrest.png" alt="Arrest" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/indiana.png" alt="Indiana" style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/arrest.png" alt="Arrest" style="width:300px; height:auto;"/>
  </div>   
 Skills Applied: Data Analysis, Data Exploration
 Tools: Altair, Seaborn, Geopandas, Matplotlib
@@ -45,7 +45,7 @@ Tools: Altair, Seaborn, Geopandas, Matplotlib
 ### Quantitative Biology
 [Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
 <br>
-<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/amph.png" alt="Amph Data" style="width:300px; height:auto;"/>
+<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/amph.png" alt="Amph Data" style="width:300px; height:auto;"/>
 <br>
 Skills Applied: Data Analysis, Data Cleaning, R, Statistical Analysis
 
