@@ -6,7 +6,7 @@
 
 [Predicting Academic Performance Based on Alcohol Consumption Patterns](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.md)
 <br>
-[Project Analysis](/Predictive Modeling.md)
+[Project Analysis](/Predictive_Modeling.md)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/student_grade.png" alt="Student Grade" style="width:300px; height:auto;"/>
