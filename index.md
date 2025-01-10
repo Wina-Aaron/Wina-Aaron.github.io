@@ -31,7 +31,7 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 ### Data Visualization 
 [Indiana Arrest Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/IndianaArrestAnalysis.md) 
 <br>
-[Project Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Indiana_Arrest.md)
+[Project Analysis](Indiana_Arrest.md)
 <br>
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/indiana.png" alt="Indiana" style="width:300px; height:auto;"/>
@@ -43,7 +43,7 @@ Tools: Altair, Seaborn, Geopandas, Matplotlib
 ---
 
 ### Quantitative Biology
-[Amphibian Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/Amph_data_analysis.md)
+[Amphibian Data Analysis](Amph_data_analysis.md)
 <br>
 <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/amph.png" alt="Amph Data" style="width:300px; height:auto;"/>
 <br>
