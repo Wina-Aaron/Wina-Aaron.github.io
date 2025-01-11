@@ -34,10 +34,9 @@ This project analyzes salary data for various job roles to estimate salaries usi
 - **Target**: Binary classification for salaries above or below the mean salary.
 
 #### Model Performances:
-| Model                | Accuracy |
-|----------------------|----------|
-| Decision Tree        | 81.6%    |
-| Logistic Regression  | 69.5%    |
+ **Decision Tree**: 81.6%
+ **Logistic Regression**: 69.5%
+
 
 - **Feature Importances (Decision Tree):**
   - `desc_len`: 23.3%
