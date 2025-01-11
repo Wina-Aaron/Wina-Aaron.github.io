@@ -42,14 +42,7 @@ Tools: Altair, Seaborn, Geopandas, Matplotlib
 
 ---
 
-### Quantitative Biology
-[Amphibian Data Analysis](Amph_data_analysis.md)
-<br>
-<img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/amph.png" alt="Amph Data" style="width:300px; height:auto;"/>
-<br>
-Skills Applied: Data Analysis, Data Cleaning, R, Statistical Analysis
 
----
 
 
 
