@@ -26,6 +26,16 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 </div>
 Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
     
+---
+### Natural Language Processing
+[Power-Danger in Young Adult Literature](NLP.md)
+<br>
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/spacy.png"  style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/flow.png"  style="width:300px; height:auto;"/>
+ </div>   
+Skills Applied: Statistical Analysis, Data Exploration, NLP Methods
+
 
 ---
 ### Data Visualization 
@@ -38,7 +48,7 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/arrest.png" alt="Arrest" style="width:300px; height:auto;"/>
  </div>   
 Skills Applied: Data Analysis, Data Exploration
-Tools: Altair, Seaborn, Geopandas, Matplotlib
+
 
 ---
 
