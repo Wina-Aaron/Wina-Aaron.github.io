@@ -28,7 +28,7 @@
 
 <p align="center">
 <img src="Images/ous.png?raw=true" style="width: 60%;"/>
-<img src="images/time_series.png?raw=true"/>
+<img src="Images/time_series.png?raw=true"/>
 </p>
 
 ### 5. Key Findings
@@ -39,6 +39,6 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="images/pow_hist.png" alt="Power in Novels by Black/White Authors" style="width: 45%; margin-right: 40px;">
-  <img src="images/dang_hist.png" alt="Danger in Novels by Black/White Authors" style="width: 45%;  margin-left: 40px;">
+  <img src="Images/pow_hist.png" alt="Power in Novels by Black/White Authors" style="width: 45%; margin-right: 40px;">
+  <img src="Images/dang_hist.png" alt="Danger in Novels by Black/White Authors" style="width: 45%;  margin-left: 40px;">
 </div>
