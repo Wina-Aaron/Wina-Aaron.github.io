@@ -18,7 +18,7 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 
 [Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
 <br>
-[Project Analysis](Avg%Salary%Estimation%Project.md)
+[Project Analysis](Avg_Salary_Estimation_Project.md)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/ds.png" alt="Data Science" style="width:300px; height:auto;"/>
