@@ -28,12 +28,11 @@ This project aims to explore student performance based on data from two datasets
 - **Targets**: Converted grades into binary pass/fail categories (threshold = 10).
 
 #### Model Performances:
-| Model                | Math Accuracy | Portuguese Accuracy |
-|----------------------|---------------|----------------------|
-| Decision Tree        | 72.7%         | 89.6%               |
-| K-Nearest Neighbors  | 66.2%         | 88.3%               |
-| Logistic Regression  | 76.6%         | 90.9%               |
-| Random Forest        | 81.8%         | 90.9%               |
+- **Decision Tree**: 72.7% (Math), 89.6% (Portuguese)
+- **K-Nearest Neighbors**: 66.2% (Math), 88.3% (Portuguese)
+- **Logistic Regression**: 76.6% (Math), 90.9% (Portuguese)
+- **Random Forest**: 81.8% (Math), 90.9% (Portuguese)
+
 
 ---
 
