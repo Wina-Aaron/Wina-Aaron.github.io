@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Student Performance Predictions
 
 ## Objective
 This project aims to explore student performance based on data from two datasets: `student-mat.csv` and `student-por.csv`. The analysis predicts student success in math and Portuguese using classification techniques, clustering, and a multi-output neural network.
