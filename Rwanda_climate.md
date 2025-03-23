@@ -40,16 +40,11 @@ An interactive map displays the locations of the 11 climate monitoring stations 
 
 The project is fully containerized using Docker to ensure reproducibility and ease of setup across environments. A Makefile is included to streamline common operations such as training the model, launching Jupyter notebooks, and starting the dashboard.
 
-### Dashboard Preview
-
-The following screenshot shows the calorie prediction model in action based on user-selected SPI values:
-
-![Cassava Calorie Prediction Gauge](./images/dashboard_screenshot.png)
 
 ### Dashboard Preview
 
 The following screenshot highlights one component of the Rwanda Climate and Food Security Dashboard, showcasing the calorie prediction model based on user-selected SPI values:
 
-![Cassava Calorie Prediction Gauge](./images/dashboard_image.png)
+![Cassava Calorie Prediction Gauge](./Images/dashboard_image.png)
 
 > **Note:** Due to privacy and data-sharing restrictions, this portfolio does not include the full dashboard or access to all interactive components. 
