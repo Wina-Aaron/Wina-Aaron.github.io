@@ -21,7 +21,10 @@ Skills Applied: Statistical Analysis, Data Exploration, NLP Methods
 Skills Applied: Data Wrangling & Cleaning, Machine Learning & Modeling, Software Development & Modularization, Dashboard Development, Containerization
 
 ---
+### Spatial Data Science 
+[Spatial Analysis of Carjackings in Chicago](spatial_chicago.md)
 
+---
 ### Machine Learning
 
 [Predicting Academic Performance Based on Alcohol Consumption Patterns](Predictive_Modeling.md)
