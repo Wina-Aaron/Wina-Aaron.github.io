@@ -11,6 +11,8 @@
 Skills Applied: Statistical Analysis, Data Exploration, NLP Methods
 
 ---
+### Interactive Dashboard
+[Rwanda Climate and Calorie Forecasting Dashboard](Rwanda_climate.md) 
 
 ### Machine Learning
 
