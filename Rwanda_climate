@@ -1,0 +1,55 @@
+# Rwanda Climate and Food Security Dashboard
+
+## Project Overview
+
+This project explores the relationship between climate variability and food security in Rwanda, with a particular focus on cassava production. Leveraging historical data on precipitation, agricultural yields, and population trends, we developed a Bayesian Ridge Regression model to estimate caloric availability based on projected climate patterns. An interactive dashboard was created using Streamlit to allow users to visualize and simulate these trends in real time.
+
+- **Region of Study:** Southern Province, Rwanda  
+- **Modeling Approaches:** Time Series Forecasting (Prophet), Bayesian Ridge Regression  
+- **Technologies Used:** Python, Streamlit, Docker, Plotly, Scikit-learn  
+- **Primary Data Sources:** University of Rwanda, FAOSTAT, World Bank
+
+---
+
+## Key Features
+
+### SPI Forecasting
+
+The dashboard includes a time series forecasting tool built with Prophet, which predicts future SPI (Standardized Precipitation Index) values using historical data from 11 climate monitoring stations in the Kaduha-Gitwe Corridor. Users can select a location and adjust the forecasting horizon.
+
+### Cassava Calorie Prediction Model
+
+The Bayesian Ridge model predicts cassava production based on input SPI levels and demographic variables, then converts these predictions into per capita daily caloric availability. This allows users to simulate the potential impacts of climate variation on food security.
+
+### Station Location Map
+
+An interactive map displays the locations of the 11 climate monitoring stations used in the study, highlighting the geographic scope of the dataset and the agricultural relevance of the Kaduha-Gitwe Corridor.
+
+---
+
+## Model Performance
+
+- **R²:** 0.87  
+- **Adjusted R²:** 0.71  
+- **Root Mean Squared Error (RMSE):** 0.40455  
+- **Prediction Interval:** 20% Confidence Level
+
+---
+
+## Deployment and Usage
+
+The project is fully containerized using Docker to ensure reproducibility and ease of setup across environments. A Makefile is included to streamline common operations such as training the model, launching Jupyter notebooks, and starting the dashboard.
+
+### Dashboard Preview
+
+The following screenshot shows the calorie prediction model in action based on user-selected SPI values:
+
+![Cassava Calorie Prediction Gauge](./images/dashboard_screenshot.png)
+
+### Dashboard Preview
+
+The following screenshot highlights one component of the Rwanda Climate and Food Security Dashboard, showcasing the calorie prediction model based on user-selected SPI values:
+
+![Cassava Calorie Prediction Gauge](./images/dashboard_screenshot.png)
+
+> **Note:** Due to privacy and data-sharing restrictions, this portfolio does not include the full dashboard or access to all interactive components. 
