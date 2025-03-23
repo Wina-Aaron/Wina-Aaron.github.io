@@ -13,6 +13,9 @@ Skills Applied: Statistical Analysis, Data Exploration, NLP Methods
 ---
 ### Interactive Dashboard
 [Rwanda Climate and Calorie Forecasting Dashboard](Rwanda_climate.md) 
+Skills Applied: Data Wrangling & Cleaning, Machine Learning & Modeling, Software Development & Modularization, Dashboard Development, Containerization
+
+---
 
 ### Machine Learning
 
