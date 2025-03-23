@@ -13,6 +13,11 @@ Skills Applied: Statistical Analysis, Data Exploration, NLP Methods
 ---
 ### Interactive Dashboard
 [Rwanda Climate and Calorie Forecasting Dashboard](Rwanda_climate.md) 
+<br>
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/rwanda_land.png"  style="width:300px; height:auto;"/>
+    <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/rwanda_flow.png"  style="width:300px; height:auto;"/>
+ </div>   
 Skills Applied: Data Wrangling & Cleaning, Machine Learning & Modeling, Software Development & Modularization, Dashboard Development, Containerization
 
 ---
