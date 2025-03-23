@@ -45,15 +45,25 @@ To classify neighborhoods into socio-spatial groups, K-Medoids clustering was ap
 
 ## Results
 
-![K-Medoids Clustering](./Images/kmediods.png)
+![K-Medoids Clustering]
+
+<p align="center">
+<img src="Images/kmediods.png?raw=true" style="width: 60%;"/>
+</p>
 
 The K-Medoids clustering revealed six distinct neighborhood types. Cluster 0 represents communities with high unemployment and carjacking rates but moderate transit access. Cluster 1, in contrast, includes transit-rich but lower-risk areas such as the Loop and North Side.
 
-![Multivariate Moran's I (Carjackings vs. Unemployment)](./Images/unemploymentVcar.png)
+![Multivariate Moran's I (Carjackings vs. Unemployment)]
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="Images/unemploymentVcar.png" alt="Power in Novels by Black/White Authors" style="width: 45%; margin-right: 40px;">
+</div>
 
 The Local Moran’s I map for carjackings and unemployment shows high-high clusters in the West Side (areas 26–29), indicating strong spatial correlation between economic distress and carjacking concentration.
 
-![Multivariate Moran's I (Carjackings vs. Transit)](./Images/transitVcar.png)
+![Multivariate Moran's I (Carjackings vs. Transit)]
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="Images/transitVcar.png" alt="Power in Novels by Black/White Authors" style="width: 45%; margin-right: 40px;">
+</div>
 
 In contrast, the spatial correlation between transit access and carjackings is more nuanced. Some high-transit areas like the Loop (32) show elevated carjacking clusters, but others do not. This suggests that while transit can aid offender mobility, it’s not always a primary driver of carjacking activity.
 
