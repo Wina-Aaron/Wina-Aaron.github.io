@@ -24,10 +24,8 @@ Skills Applied: Data Wrangling & Cleaning, Machine Learning & Modeling, Software
 
 ### Machine Learning
 
-[Predicting Academic Performance Based on Alcohol Consumption Patterns](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/MachineLearningProject1.md)
+[Predicting Academic Performance Based on Alcohol Consumption Patterns](Predictive_Modeling.md)
 <br>
-[Project Analysis](Predictive_Modeling.md)
-
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/student_grade.png" alt="Student Grade" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/alch_cons.png" alt="Alcohol Consumption" style="width:300px; height:auto;"/>
@@ -36,10 +34,8 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 
 ---
 
-[Salary Estimation of Data Science Positions](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/SalaryEstimation.md)
+[Salary Estimation of Data Science Positions](Avg_Salary_Estimation_Project.md)
 <br>
-[Project Analysis](Avg_Salary_Estimation_Project.md)
-
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/ds.png" alt="Data Science" style="width:300px; height:auto;"/>
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/salary.png" alt="Salary Estimation" style="width:300px; height:auto;"/>
@@ -48,9 +44,7 @@ Skills Applied: Predictive Modeling, Data Cleaning, Python, Statistical Analysis
 
 ---
 ### Data Visualization 
-[Indiana Arrest Data Analysis](https://github.com/Wina-Aaron/Wina-Aaron.github.io/blob/main/IndianaArrestAnalysis.md) 
-<br>
-[Project Analysis](Indiana_Arrest.md)
+[Indiana Arrest Data Analysis](Indiana_Arrest.md) 
 <br>
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/indiana.png" alt="Indiana" style="width:300px; height:auto;"/>
