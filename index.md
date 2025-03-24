@@ -26,6 +26,7 @@ Skills Applied: Data Wrangling & Cleaning, Machine Learning & Modeling, Software
     <img src="https://github.com/Wina-Aaron/Wina-Aaron.github.io/raw/main/Images/chicago.png"  style="width:300px; height:auto;"/>
  </div>
 Skills Applied: Spatial Data Analysis, Unsupervised Machine Learning, Geospatial Visualization, Sensitivity Analysis
+
 ---
 ### Machine Learning
 
